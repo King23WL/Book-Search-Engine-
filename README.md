@@ -22,6 +22,8 @@ To install the necessary dependencies, run the following command:<br>
 
 ## Usage
 
+![Alt text](Google%20Book%20Search.gif)
+
 ## DeployedLink
 
 https://boiling-taiga-96939.herokuapp.com/
